@@ -1,0 +1,2 @@
+# JavaStoreProject
+Online store example.
